@@ -1,0 +1,41 @@
+body{
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(216, 202, 184);
+}
+
+.container{
+  background-color: rgb(193, 243, 243);
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  margin: auto;
+  padding: 20px; 
+  border-radius: 10px; 
+}
+
+.label{
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: left;
+  margin-left: 15px;
+      font-weight: bold;
+
+}
+
+.text{
+  background-color: transparent;
+  height: 20px;
+  color: black;
+  font-size: 15px;
+  outline: none;
+}
+
+.btn{
+  background-color: orange;
+  width: 70px;
+  height: 30px;
+  margin-top: 30px;
+}
